@@ -2,6 +2,7 @@ import csv
 import random
 from datetime import datetime, timedelta
 
+
 def do_logs(filename, line_qty):
 
     print(f"Creating {line_qty} logs in '{filename}'...")
